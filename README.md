@@ -14,7 +14,7 @@ or add the following the your package.json file
 
 ```JavaScript
 "dependencies": {
-  "voicemail-main": "asterisk/node-voicemail-main"
+  "voicemail-main": "voxoco/node-voicemail-main"
 }
 ```
 
